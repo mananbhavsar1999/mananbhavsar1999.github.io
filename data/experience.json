@@ -11,8 +11,8 @@
       "Rationalizing assembly draw package (~30 drawings) for a Wärtsilä marine propulsion system — restructuring callout sequences into logical assembly categories and correcting multi-level BOM hierarchy mismatches in Teamcenter PLM.",
       "Building and fully constraining 3D assembly models in Siemens NX, resolving broken constraints, repairing corrupted part references, and remodeling components where geometry recovery is not feasible.",
       "Executing environmental compliance material substitution (seals, O-rings, thread-locking compounds) per Wärtsilä-approved specifications, with full revision traceability across affected drawings and MTO.",
-      "Performing tolerance stack-up analysis using Siemens NX to validate assembly fit and function following component-level design changes."
-	  "Managing engineering documentation release through Teamcenter, maintaining revision control integrity across all modified drawings, BOMs, and procurement-linked MTO packages."
+      "Performing tolerance stack-up analysis using Siemens NX to validate assembly fit and function following component-level design changes.",
+      "Managing engineering documentation release through Teamcenter, maintaining revision control integrity across all modified drawings, BOMs, and procurement-linked MTO packages."
     ]
   },
   {
@@ -55,8 +55,8 @@
     "points": [
       "Designed 5 centrifugal/screw compressor packages and 3 pump packages for Wärtsilä Gas Solutions (Finland) end-to-end — equipment sizing, valve selection, P&ID development in COMOS, datasheet preparation, and full 3D package skid modeling with piping in Siemens NX, in direct collaboration with Wärtsilä's Finland engineering team.",
       "Designed marine lube oil, fuel, water, and drain piping systems for WinGD — studying reference designs, implementing reliability improvements, and delivering new systems with full 3D piping models and BOMs in NX.",
-      "Migrated thousands of legacy IDEAS parts into Siemens NX, establishing a usable 3D asset base for ongoing package design and documentation workflows."
-	  "Developed and maintained P&IDs in COMOS across compressor and pump package scopes, ensuring system integration, operability, and compliance with API/ASME standards."
+      "Migrated thousands of legacy IDEAS parts into Siemens NX, establishing a usable 3D asset base for ongoing package design and documentation workflows.",
+      "Developed and maintained P&IDs in COMOS across compressor and pump package scopes, ensuring system integration, operability, and compliance with API/ASME standards."
     ]
   },
   {
@@ -70,8 +70,8 @@
     "points": [
       "Designed complete HVAC systems for pharmaceutical clients — chilled water, VRF, and associated piping systems — covering equipment sizing, layout, and documentation from scratch.",
       "Engineered compressor and pump packages for 3 clients end-to-end — equipment sizing, vendor selection (Atlas Copco, Ingersoll Rand), technical bid evaluation, P&ID development, and full BOM/MTO/BOQ preparation.",
-      "Led client-facing kickoff meetings, presenting engineering scope, equipment selection rationale, and project execution approach to stakeholders."
-	  "Prepared procurement packages including vendor comparisons, technical specifications, and material takeoffs to support project award and execution."
+      "Led client-facing kickoff meetings, presenting engineering scope, equipment selection rationale, and project execution approach to stakeholders.",
+      "Prepared procurement packages including vendor comparisons, technical specifications, and material takeoffs to support project award and execution."
     ]
   }
 ]
