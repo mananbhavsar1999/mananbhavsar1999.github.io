@@ -8,10 +8,11 @@
     "role": "Mechanical Design Engineer — Gearbox & Rotating Equipment",
     "location": "Vadodara, GJ",
     "points": [
-      "Designed gearbox layouts including gear ratios, shaft arrangements, and bearing selection for performance and reliability.",
-      "Developed 3D models and detailed manufacturing drawings using Siemens NX and Teamcenter.",
-      "Executed design modifications ensuring manufacturability of mechanical components.",
-      "Supported mechanical system integration and cross-functional collaboration to resolve design and assembly issues."
+      "Rationalizing assembly draw package (~30 drawings) for a Wärtsilä marine propulsion system — restructuring callout sequences into logical assembly categories and correcting multi-level BOM hierarchy mismatches in Teamcenter PLM.",
+      "Building and fully constraining 3D assembly models in Siemens NX, resolving broken constraints, repairing corrupted part references, and remodeling components where geometry recovery is not feasible.",
+      "Executing environmental compliance material substitution (seals, O-rings, thread-locking compounds) per Wärtsilä-approved specifications, with full revision traceability across affected drawings and MTO.",
+      "Performing tolerance stack-up analysis using Siemens NX to validate assembly fit and function following component-level design changes."
+	  "Managing engineering documentation release through Teamcenter, maintaining revision control integrity across all modified drawings, BOMs, and procurement-linked MTO packages."
     ]
   },
   {
@@ -23,10 +24,10 @@
     "role": "Mechanical Design Engineer — Steam Turbine Components",
     "location": "Vadodara, GJ",
     "points": [
-      "Design validation of steam turbine components using Siemens NX and Teamcenter — tolerances, fitment, and manufacturability.",
-      "Performed tolerance stack-up analysis for rotating assemblies using 3DCS ensuring assembly accuracy.",
-      "Prepared BOM, MTO, and technical datasheets for project execution.",
-      "Released engineering documentation aligned with project schedules and quality standards."
+      "Delivered 270+ pre-steam piping weldment drawings across SST-300/400/500 turbine programs in Siemens NX, specifying weld sequences, machining instructions, and pipe fit-up geometry to prepare turbine casings for steam piping hook-up during plant installation.",
+      "Supported turbine package modeling in NX — positioning PHEs, filters, and lube oil system components on the package skid, performing clash checks to ensure interference-free integration with connected plant systems, and preparing package-level BOMs in Teamcenter.",
+      "Self-initiated and delivered a master model framework in NX, where feature activation auto-updates the linked drawing across upper/lower casing and base frame packages — reducing per-drawing turnaround by ~50%.",
+      "Developed ~80 control oil piping and turbine lifting arrangement drawings in AutoCAD, supporting turbine package installation and procurement teams with Excel-managed BOMs."
     ]
   },
   {
@@ -38,9 +39,9 @@
     "role": "Mechanical Design Engineer — Structural & Machined Components",
     "location": "Pune, MH",
     "points": [
-      "Developed 3D models and detailed drawings for structural and machined components using NX CAD.",
-      "Performed basic engineering calculations and FEA using ANSYS to validate component strength.",
-      "Created GA and fabrication drawings per ISO standards for installation and assembly."
+      "Developed 1,050+ NX 3D models and manufacturing drawings across 25 sub-assemblies for a vehicle-mounted RADAR structure program, covering all parts from scratch through to assembly-level documentation.",
+      "Performed static structural and modal (vibration) analysis in ANSYS on RADAR structural components, interpreted results, and fed findings back into design iterations to meet structural integrity and dynamic performance targets.",
+      "Prepared assembly-level BOMs and fabrication drawings per ISO standards to support procurement and manufacturing readiness."
     ]
   },
   {
@@ -52,9 +53,10 @@
     "role": "Engineer — Piping, Auxiliary & Lube Oil Systems",
     "location": "Vadodara, GJ",
     "points": [
-      "Piping system design and engineering calculations for lube oil and auxiliary systems including flow and pressure analysis.",
-      "Developed and maintained P&IDs ensuring system integration, operability, and standards compliance.",
-      "Conducted CFD analysis of axial flow compressors and pump systems to evaluate performance characteristics."
+      "Designed 5 centrifugal/screw compressor packages and 3 pump packages for Wärtsilä Gas Solutions (Finland) end-to-end — equipment sizing, valve selection, P&ID development in COMOS, datasheet preparation, and full 3D package skid modeling with piping in Siemens NX, in direct collaboration with Wärtsilä's Finland engineering team.",
+      "Designed marine lube oil, fuel, water, and drain piping systems for WinGD — studying reference designs, implementing reliability improvements, and delivering new systems with full 3D piping models and BOMs in NX.",
+      "Migrated thousands of legacy IDEAS parts into Siemens NX, establishing a usable 3D asset base for ongoing package design and documentation workflows."
+	  "Developed and maintained P&IDs in COMOS across compressor and pump package scopes, ensuring system integration, operability, and compliance with API/ASME standards."
     ]
   },
   {
@@ -66,9 +68,10 @@
     "role": "Engineer — HVAC & Power Plant Utility Systems",
     "location": "Vadodara, GJ",
     "points": [
-      "Pump selection and piping system calculations for HVAC and power plant utility systems.",
-      "Designed cooling water and chilled water systems including heat load calculations and equipment sizing.",
-      "Designed compressor-based utility systems per API standards with equipment selection and pressure/flow analysis."
+      "Designed complete HVAC systems for pharmaceutical clients — chilled water, VRF, and associated piping systems — covering equipment sizing, layout, and documentation from scratch.",
+      "Engineered compressor and pump packages for 3 clients end-to-end — equipment sizing, vendor selection (Atlas Copco, Ingersoll Rand), technical bid evaluation, P&ID development, and full BOM/MTO/BOQ preparation.",
+      "Led client-facing kickoff meetings, presenting engineering scope, equipment selection rationale, and project execution approach to stakeholders."
+	  "Prepared procurement packages including vendor comparisons, technical specifications, and material takeoffs to support project award and execution."
     ]
   }
 ]
