@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "year_start": "Jan 2026",
+    "year_end": "Present",
+    "company": "L&T Technology Services",
+    "via": "Via Orcapod Consulting",
+    "role": "Mechanical Design Engineer — Gearbox & Rotating Equipment",
+    "location": "Vadodara, GJ",
+    "points": [
+      "Designed gearbox layouts including gear ratios, shaft arrangements, and bearing selection for performance and reliability.",
+      "Developed 3D models and detailed manufacturing drawings using Siemens NX and Teamcenter.",
+      "Executed design modifications ensuring manufacturability of mechanical components.",
+      "Supported mechanical system integration and cross-functional collaboration to resolve design and assembly issues."
+    ]
+  },
+  {
+    "id": 2,
+    "year_start": "Jul 2024",
+    "year_end": "Dec 2025",
+    "company": "Siemens Ltd",
+    "via": "Via Sphinx Worldbiz Ltd",
+    "role": "Mechanical Design Engineer — Steam Turbine Components",
+    "location": "Vadodara, GJ",
+    "points": [
+      "Design validation of steam turbine components using Siemens NX and Teamcenter — tolerances, fitment, and manufacturability.",
+      "Performed tolerance stack-up analysis for rotating assemblies using 3DCS ensuring assembly accuracy.",
+      "Prepared BOM, MTO, and technical datasheets for project execution.",
+      "Released engineering documentation aligned with project schedules and quality standards."
+    ]
+  },
+  {
+    "id": 3,
+    "year_start": "Jan 2024",
+    "year_end": "Jun 2024",
+    "company": "L&T Precision Engineering & Systems",
+    "via": "Via SHIMI Design & Consulting Engineers",
+    "role": "Mechanical Design Engineer — Structural & Machined Components",
+    "location": "Pune, MH",
+    "points": [
+      "Developed 3D models and detailed drawings for structural and machined components using NX CAD.",
+      "Performed basic engineering calculations and FEA using ANSYS to validate component strength.",
+      "Created GA and fabrication drawings per ISO standards for installation and assembly."
+    ]
+  },
+  {
+    "id": 4,
+    "year_start": "Jun 2022",
+    "year_end": "Dec 2023",
+    "company": "L&T Technology Services",
+    "via": "",
+    "role": "Engineer — Piping, Auxiliary & Lube Oil Systems",
+    "location": "Vadodara, GJ",
+    "points": [
+      "Piping system design and engineering calculations for lube oil and auxiliary systems including flow and pressure analysis.",
+      "Developed and maintained P&IDs ensuring system integration, operability, and standards compliance.",
+      "Conducted CFD analysis of axial flow compressors and pump systems to evaluate performance characteristics."
+    ]
+  },
+  {
+    "id": 5,
+    "year_start": "Jun 2021",
+    "year_end": "Apr 2022",
+    "company": "Adept Consultant & Engineers",
+    "via": "",
+    "role": "Engineer — HVAC & Power Plant Utility Systems",
+    "location": "Vadodara, GJ",
+    "points": [
+      "Pump selection and piping system calculations for HVAC and power plant utility systems.",
+      "Designed cooling water and chilled water systems including heat load calculations and equipment sizing.",
+      "Designed compressor-based utility systems per API standards with equipment selection and pressure/flow analysis."
+    ]
+  }
+]

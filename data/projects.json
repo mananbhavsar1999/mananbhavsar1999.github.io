@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "slug": "steam-turbine-power-plant",
+    "number": "01",
+    "name": "Steam Turbine Power Plant Support",
+    "short_desc": "Piping and auxiliary system design for steam turbine power plants. 3D modelling, engineering drawings, and P&ID inputs in coordination with senior engineers.",
+    "tags": ["Siemens NX", "Teamcenter", "P&ID", "Power Plant"],
+    "page": "projects/project-1.html"
+  },
+  {
+    "id": 2,
+    "slug": "gearbox-layout-design",
+    "number": "02",
+    "name": "Gearbox Layout Design",
+    "short_desc": "Complete gearbox layout design covering gear ratios, shaft arrangements, and bearing selection. Delivered 3D models and detailed manufacturing drawings.",
+    "tags": ["Siemens NX", "Rotating Equipment", "Bearing Selection"],
+    "page": "projects/project-2.html"
+  },
+  {
+    "id": 3,
+    "slug": "compressor-utility-system",
+    "number": "03",
+    "name": "Compressor-Based Utility System",
+    "short_desc": "End-to-end compressor system design for Pharma and Small Power Plant applications — equipment selection, piping layout, pressure/flow analysis, and technical bid evaluation.",
+    "tags": ["Compressor Design", "API Standards", "Pharma"],
+    "page": "projects/project-3.html"
+  },
+  {
+    "id": 4,
+    "slug": "lube-oil-system-marine",
+    "number": "04",
+    "name": "Lube Oil System (Marine Engine)",
+    "short_desc": "Marine engine lubrication system design including pump selection, piping network, filters, and heat exchangers. Flow and pressure calculations with full vendor coordination.",
+    "tags": ["Marine", "Lube Oil", "Heat Exchangers"],
+    "page": "projects/project-4.html"
+  },
+  {
+    "id": 5,
+    "slug": "steam-turbine-tolerance-fea",
+    "number": "05",
+    "name": "Steam Turbine Tolerance & FEA",
+    "short_desc": "Tolerance stack-up analysis using 3DCS for rotating steam turbine assemblies combined with structural FEA in ANSYS to validate component strength under operating loads.",
+    "tags": ["3DCS", "ANSYS FEA", "Stack-up Analysis"],
+    "page": "projects/project-5.html"
+  },
+  {
+    "id": 6,
+    "slug": "hvac-piping-valve-design",
+    "number": "06",
+    "name": "HVAC System Piping & Valve Design",
+    "short_desc": "Piping layout, valve selection, and pressure drop calculations for HVAC systems. Supported BOQ/MTO preparation and full vendor coordination for project delivery.",
+    "tags": ["HVAC", "Valve Selection", "AutoCAD"],
+    "page": "projects/project-6.html"
+  }
+]

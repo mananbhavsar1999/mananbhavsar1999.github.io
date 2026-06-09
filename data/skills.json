@@ -1,0 +1,18 @@
+[
+  {
+    "category": "CAD & Software",
+    "skills": ["Siemens NX", "AutoCAD", "Teamcenter", "3DCS", "ANSYS"]
+  },
+  {
+    "category": "System Engineering",
+    "skills": ["Auxiliary Systems", "Lube Oil Systems", "Cooling Water", "HVAC", "Compressor Systems", "Piping & Pumps", "Steam & Condensate"]
+  },
+  {
+    "category": "Engineering Calculations",
+    "skills": ["Pipe Sizing & Thickness", "Pump Sizing", "Flow & Pressure Drop", "Heat Load Calculations", "Tolerance Stack-up", "Equipment Sizing"]
+  },
+  {
+    "category": "Documentation & Codes",
+    "skills": ["P&ID Development", "GA Drawings", "BOM / MTO / BOQ", "Equipment Datasheets", "ASME B31.1 / B31.3", "API Standards", "ISO Standards"]
+  }
+]
